@@ -3,7 +3,7 @@
   <div class="home-ctas__cta">
     <h2 class="home-ctas__heading">Join</h2>
     <a href="https://my.greenparty.org.uk/civicrm/membership/joining" class="home-ctas__link">Count me in</span>
-    <a aria-hidden="true" tabindex="-1" class="faux-link" data-faux-link="true" href="https://my.greenparty.org.uk/civicrm/membership/joining">
+    <a aria-hidden="true" tabindex="-1" class="faux-link" data-faux-link="true" href="https://join.greenparty.org.uk/">
     Join
     </a>
   </div>
